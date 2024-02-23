@@ -1,0 +1,7 @@
+{
+    "variants": {
+      "": {
+        "model": "joe-mod:block/flask"
+      }
+    }
+  }
